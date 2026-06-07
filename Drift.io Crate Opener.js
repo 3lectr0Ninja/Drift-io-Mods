@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Drift.io Crate Opener
 // @namespace    https://github.com/3lectr0Ninja
-// @version      V1
+// @version      V2
 // @description  Let the script open all your crates while watching it(if you want to),rather than breaking ur fingers. Enjoy!
 // @author       3lectr0N!nj@
 // @match        https://drift.io/*
